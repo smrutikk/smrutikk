@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Smruti 👋
 
-<!--
-**smrutikk/smrutikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 2025 Computer Engineering graduate with hands-on experience in software development and cloud-based application deployment. I enjoy building practical applications, understanding how systems work end to end, and continuously improving my technical skills through real projects.
 
-Here are some ideas to get you started:
+## 🔧 What I Work With
+- **Programming:** Python, JavaScript, C/C++, SQL  
+- **Web Development:** React, Flask, HTML, CSS  
+- **Cloud & Tools:** AWS (EC2, S3, RDS, IAM, VPC), Git, GitHub, CI/CD basics  
+- **Databases:** MySQL  
+- **Concepts:** REST APIs, Linux basics, Networking fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Three-Tier Web Application:** Full-stack application deployed on AWS using Flask, MySQL, EC2, S3, and RDS  
+- **Band-o-bast (SIH Project):** IoT-based remote tracking system built with React and Firebase  
+- **Learning Management System:** Web application using React and Node.js  
+- **MedicoBot:** Python-based disease prediction system using symptom-based logic  
+
+## 🎓 Certifications
+- AWS Certified Cloud Practitioner  
+- AWS Certified Solutions Architect – Associate *(Expected: Jan 2026)*  
+
+## 🌱 Currently Learning
+- Cloud architecture best practices  
+- Backend development and deployment workflows  
+- Writing cleaner, more maintainable code  
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/smruti-kumbhalkar  
+- Email: smrutikumbhalkar2003@gmail.com  
+
+⭐ Feel free to explore my repositories and projects.
