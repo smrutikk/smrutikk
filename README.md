@@ -17,7 +17,7 @@ I’m a 2025 Computer Engineering graduate with hands-on experience in software 
 
 ## 🎓 Certifications
 - AWS Certified Cloud Practitioner  
-- AWS Certified Solutions Architect – Associate *(Expected: Jan 2026)*  
+- AWS Certified Solutions Architect – Associate *(Expected: Jun 2026)*  
 
 ## 🌱 Currently Learning
 - Cloud architecture best practices  
